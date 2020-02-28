@@ -2,11 +2,7 @@
 https://www.youtube.com/watch?v=8qK6nx8hbT4
 
 <p>
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
 
 ## Available Scripts
 
